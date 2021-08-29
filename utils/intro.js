@@ -15,4 +15,4 @@ function introduction() {
 	console.log(print);
 }
 
-module.exports = { introduction };
+module.exports = introduction;
