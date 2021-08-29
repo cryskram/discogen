@@ -1,6 +1,6 @@
 {
 	"name": "discogen",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "A CLI Utility that generates starter code to create Bots using Discord.js",
 	"main": "index.js",
 	"repository": {
