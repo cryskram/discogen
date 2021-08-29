@@ -1,5 +1,8 @@
 # discogen
 
+![npm](https://img.shields.io/npm/v/discogen?style=for-the-badge)
+![NPM](https://img.shields.io/npm/l/discogen?style=for-the-badge)
+
 A CLI Utility that generates starter code to create Bots using Discord.js
 
 # Features
