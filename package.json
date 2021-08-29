@@ -1,0 +1,33 @@
+{
+	"name": "discogen",
+	"version": "0.1.0",
+	"description": "A CLI Utility that generates starter code to create Bots using Discord.js",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GNVageesh/discogen.git"
+	},
+	"keywords": [
+		"cli",
+		"discordjs",
+		"discord",
+		"bots",
+		"utility",
+		"simple"
+	],
+	"bin": {
+		"discogen": "./bin/index.js"
+	},
+	"author": "gnvageesh <vageeshgn2005@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/GNVageesh/discogen/issues"
+	},
+	"homepage": "https://github.com/GNVageesh/discogen#readme",
+	"dependencies": {
+		"boxen": "^5.0.1",
+		"chalk": "^4.1.2",
+		"readline": "^1.3.0",
+		"shelljs": "^0.8.4"
+	}
+}
