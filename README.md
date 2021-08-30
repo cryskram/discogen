@@ -65,6 +65,6 @@ Let's run the ping command with the prefix, in my case `?`
 
 **That's it, the BOT is online and running in just 3 mins**
 
-## > Note: **If this project becomes a success then I will find a way to host your bots as well at a lower price**
+> Note: **If this project becomes a success then I will find a way to host your bots as well at a lower price**
 
 ### Happy BOT Making!
