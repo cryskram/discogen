@@ -8,8 +8,7 @@ function createFile(filename, content) {
 }
 
 async function createFileWithUrl(filename, url) {
-	const res = await fetch(url);
-	const data = await res.text();
+	const data = fs.readFileSync(url, "utf8");
 
 	createFile(filename, data);
 }
